@@ -4,5 +4,5 @@ Presentando App: GalileoX: CTec001x Desarrollo de aplicaciones profesionales par
 App para hacerlo funcionar como control remoto para un proyecto de arduino, uso de conexion bluetooth y 5 comandos basicos (adelante, atras, derecha, izquierda, parar) 
 
 presentacion de video:
-https://www.youtube.com/watch?v=glj2D-ka7Dw
+https://www.youtube.com/watch?v=0B3GysMMQMc
 
